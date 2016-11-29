@@ -1,8 +1,10 @@
 # Intermediate and binary files
+nasm.exe
 *.bin
 *.lst
 
 # backups
+mkar.bat
 *.zip
 
 # logs
