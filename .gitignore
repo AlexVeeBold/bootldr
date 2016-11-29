@@ -1,4 +1,4 @@
-# Intermediate and binary files
+# NASM Intermediate and binary files
 nasm.exe
 *.bin
 *.lst
@@ -9,6 +9,12 @@ mkar.bat
 
 # logs
 logs/
+
+# other files
+*.dsp
+*.dsw
+*.def
+_vm_config.bat
 
 
 ## Ignore Visual Studio temporary files, build results, and
